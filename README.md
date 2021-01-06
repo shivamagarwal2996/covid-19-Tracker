@@ -1,5 +1,4 @@
 Shivam Agarwal(0319-3956)
-Graduate
 Speech Recognition interface that will take speech input and will give speech output about the cases of COVID-19 virus.
 Tools:	Visual Studio Code
 		Google Dialogflow
